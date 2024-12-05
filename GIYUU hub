@@ -1,0 +1,6 @@
+Config = {
+    namescript = "GIYUU HUB",--Tên Script
+    logoscript = "129158412173644",--ID Logo Script
+    tacgia = "KANY_SO,_LOVE"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
